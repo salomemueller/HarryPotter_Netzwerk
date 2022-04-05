@@ -1,1 +1,8 @@
-id;name ;sex;house;hair;eyeHarry;Harry Potter;1;Gryffindor;brown;blueHermine;Hermine Granger;2;Gryffindor;brown;brownRon;Ron Weasley;2;Gryffindor;red;greenSnape;Severus Snape;2;Slytherin;black;brownDumbledore;Albus Dumbledore;2;Gryffindor;white;blueVoldemort;Tom Riddle;2;Slytherin;NA;blueDraco;Draco Malfoy;2;Slytherin;blonde;blue
+id;name ;sex;house;hair;eye
+Harry;Harry Potter;1;Gryffindor;brown;blue
+Hermine;Hermine Granger;2;Gryffindor;brown;brown
+Ron;Ron Weasley;2;Gryffindor;red;green
+Snape;Severus Snape;2;Slytherin;black;brown
+Dumbledore;Albus Dumbledore;2;Gryffindor;white;blue
+Voldemort;Tom Riddle;2;Slytherin;NA;blue
+Draco;Draco Malfoy;2;Slytherin;blonde;blue
